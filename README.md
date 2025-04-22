@@ -17,3 +17,10 @@ This bot fetches real-time Forex market data, analyzes it using technical indica
 - 🕐 Converts timestamps to IST (Indian Standard Time)
 - ✅ Clean and structured asynchronous code with error handling
 
+e.g
+Latest crossover detected for EURUSD=X!
+ Datetime          Adj Close       5EMA       8SMA       RSI Crossover Point
+2025-04-22 15:15   1.0965          1.0962     1.0958     63.2 Crossover
+TradingView Link: https://www.tradingview.com/chart/?symbol=OANDA%3AEURUSD
+
+
